@@ -1,12 +1,7 @@
 # Project-CarpeDiem
 
-CarpeDiem is a LineageOS-based Android distribution focused on stability,
-clean branding, and maintainer-friendly bringup.
-
-- Base: LineageOS `lineage-24.0` / Android 17
-- Vendor path: `vendor/lineage` (kept, like other Lineage forks)
-- Brand: `CarpeDiem` (`PRODUCT_BRAND ?= CarpeDiem`)
-- Builds: vanilla by default, GApps via flashable zip
+CarpeDiem is a clean and stable Android experience, built for everyday use.
+Simple, fast, and respectful of your device.
 
 ## Credits
 
